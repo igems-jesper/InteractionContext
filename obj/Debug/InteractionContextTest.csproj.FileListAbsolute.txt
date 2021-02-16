@@ -1,0 +1,9 @@
+C:\Users\Jesper\Downloads\interactioncontexttest\InteractionContextTest\bin\Debug\ICTest.exe
+C:\Users\Jesper\Downloads\interactioncontexttest\InteractionContextTest\bin\Debug\ICTest.pdb
+C:\Users\Jesper\Downloads\interactioncontexttest\InteractionContextTest\obj\Debug\InteractionContextTest.csprojAssemblyReference.cache
+C:\Users\Jesper\Downloads\interactioncontexttest\InteractionContextTest\obj\Debug\ICTest.TouchForm.resources
+C:\Users\Jesper\Downloads\interactioncontexttest\InteractionContextTest\obj\Debug\ICTest.Properties.Resources.resources
+C:\Users\Jesper\Downloads\interactioncontexttest\InteractionContextTest\obj\Debug\InteractionContextTest.csproj.GenerateResource.cache
+C:\Users\Jesper\Downloads\interactioncontexttest\InteractionContextTest\obj\Debug\InteractionContextTest.csproj.CoreCompileInputs.cache
+C:\Users\Jesper\Downloads\interactioncontexttest\InteractionContextTest\obj\Debug\ICTest.exe
+C:\Users\Jesper\Downloads\interactioncontexttest\InteractionContextTest\obj\Debug\ICTest.pdb
